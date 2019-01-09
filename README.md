@@ -48,11 +48,8 @@ If you are building on an older processor without AVX support, add the following
 You may find it helpful to explicitly include Boostand QT paths:
 ```
 cmake.exe -DPORTABLE=1 -Wno-dev -DBOOST_ROOT=C:\boost_1_67_0 -DBOOST_LIBRARYDIR=C:\boost_1_67_0\libs\ -DCMAKE_PREFIX_PATH=C:\Qt\5.10.0\msvc2015_64 -G "Visual Studio 15 2017 Win64" ..
-
+```
 And then build from within MSVC.
-
-
-
 
 ## Resources
 * [Oficial website](https://b2bcoin.xyz/)
