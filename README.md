@@ -55,7 +55,7 @@ And then build from within MSVC.
 
 
 ## Resources
-* [Oficial website](https://b2bcoin.xyz/)
+[Oficial website](https://b2bcoin.xyz/)
 * [Pool Oficial](http://pool.b2bcoin.ml)
 
 ## Social
