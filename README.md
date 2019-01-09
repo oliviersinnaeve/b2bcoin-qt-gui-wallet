@@ -24,7 +24,7 @@ $ make -j 8
 #### On Windows
 
 Dependencies: MSVC 2015 or later, CMake 2.8.6 or later, Boost 1.59 or later and QT 5.10 or later.
-
+```
 You may download them from:
 
 * http://www.microsoft.com/
@@ -33,6 +33,7 @@ You may download them from:
 * https://www.qt.io/
 
 To build, change to a directory where this file is located, and run these commands:
+
 ```
 mkdir build
 cd build
